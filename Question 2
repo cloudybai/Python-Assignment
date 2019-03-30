@@ -1,0 +1,2 @@
+product = input('Product name? ')
+total = 0
